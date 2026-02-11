@@ -1,2 +1,4 @@
 # IBM-Data-Analyst-Practice-Projects
-Practice data analysis projects inspired by IBM’s Data Analyst curriculum. Includes hands-on work using Excel, SQL, Python, Jupyter Notebooks, and IBM Cognos Analytics to develop skills in data cleaning, visualization, and extracting insights from real-world datasets.
+This repository represents my learning journey toward becoming a data analyst. Through hands-on practice projects inspired by IBM’s Data Analyst curriculum, I am developing job-ready skills required for entry-level data analyst roles.
+I am strengthening my understanding of core data analysis concepts and gaining practical experience using tools such as Excel, SQL, Python, Jupyter Notebooks, and IBM Cognos Analytics.
+These projects help me practice data cleaning, data manipulation, visualization, and applying analytical techniques to real-world datasets.
